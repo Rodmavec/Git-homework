@@ -6,4 +6,8 @@ def substract(a, b):
     res = a - b
     return res
 
-print(substract(3,4))
+def multiplication(a, b):
+    res = a * b
+    return res
+
+print(multiplication(3,4))
