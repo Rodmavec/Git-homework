@@ -6,4 +6,8 @@ def substract(a, b):
     res = a - b
     return res
 
-print(substract(3,4))
+def division(a, b):
+    res = a / b
+    return res
+
+print(division(3,4))
