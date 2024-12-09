@@ -10,4 +10,8 @@ def multiplication(a, b):
     res = a * b
     return res
 
-print(multiplication(3,4))
+def division(a, b):
+    res = a / b
+    return res
+
+print(division(3,4))
